@@ -1,0 +1,13 @@
+// #include<stdio.h>
+// InitList(&L);
+// DestoryList(&L);
+// ListEmpty(L);
+// ListLength(L);
+// PriorElem(L,cur_e,&pre_e);
+// NextElem(L,cur_e,&next_e);
+// GetElem(L,i,&e);
+// LoacteElem(L,e,compare());
+// ListTraverse(L.visit())
+// ClearLiist(&L);
+// ListInsert(&L,i,e);
+// ListDelete(&L,i,&e);
